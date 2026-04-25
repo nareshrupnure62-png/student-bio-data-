@@ -64,7 +64,7 @@ Import the database file into phpMyAdmin
 
 Open browser and run:
 
-http://localhost/project-folder-name
+
 🔐 Login Credentials (Example)
 Student:
 Username: student
